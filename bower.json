@@ -1,7 +1,9 @@
 {
   "name": "ng-screensaver",
   "private": "true",
+  "version": "0.0.1",
+  "main": "./app/ngScreensaver.js",
   "dependencies": {
-    "angular": "1.3.13"
+    "angular": "1.3.13",
   }
 }
