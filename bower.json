@@ -1,0 +1,7 @@
+{
+  "name": "ng-screensaver",
+  "private": "true",
+  "dependencies": {
+    "angular": "1.3.13"
+  }
+}
